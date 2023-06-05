@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1638968538 source:d:\2021210146\firstproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1638605822 source:d:\2021210146\firstproject\1.1.c
+
+1638965755 source:d:\2021210146\firstproject\chachong.c
+
+1638965770 source:d:\2021210146\firstproject\sort.c
+
+1640337638 source:d:\2021210146\firstproject\src\main.c
+	"../include/lottery.h"
+
+1640339966 d:\2021210146\firstproject\include\lottery.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1640337638 source:d:\2021210146\firstproject\src\lottery.c
+	"../include/lottery.h"
+
+1640337638 source:d:\2021210146\firstproject\src\isexisting.c
+	"../include/lottery.h"
+
+1640094135 source:d:\2021210146\firstproject\src\sort.c
+	"../include/lottery.h"
+
+1640182804 source:d:\2021210146\firstproject\src\file.c
+	"../include/lottery.h"
+
+1640184770 source:d:\2021210146\firstproject\src\seeingresult.c
+	"../include/lottery.h"
+
+1640170444 source:d:\2021210146\firstproject\src\touzhu.c
+	"../include/lottery.h"
+
+1640182806 source:e:\2021210146c”Ô—‘\firstproject\src\file.c
+	"../include/lottery.h"
+
+1640339968 e:\2021210146c”Ô—‘\firstproject\include\lottery.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1640337640 source:e:\2021210146c”Ô—‘\firstproject\src\isexisting.c
+	"../include/lottery.h"
+
+1640337640 source:e:\2021210146c”Ô—‘\firstproject\src\lottery.c
+	"../include/lottery.h"
+
+1640337640 source:e:\2021210146c”Ô—‘\firstproject\src\main.c
+	"../include/lottery.h"
+
+1640184772 source:e:\2021210146c”Ô—‘\firstproject\src\seeingresult.c
+	"../include/lottery.h"
+
+1640094136 source:e:\2021210146c”Ô—‘\firstproject\src\sort.c
+	"../include/lottery.h"
+
+1640170446 source:e:\2021210146c”Ô—‘\firstproject\src\touzhu.c
+	"../include/lottery.h"
+
